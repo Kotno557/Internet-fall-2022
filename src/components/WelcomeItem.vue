@@ -21,7 +21,7 @@
 .details {
   flex: 1;
   margin-left: 1rem;
-  color: rgb(207, 223, 223);
+  color: white;
 }
 
 i {
@@ -31,14 +31,14 @@ i {
   width: 32px;
   height: 32px;
 
-  color: var(--color-text);
+  color: black;
 }
 
 h3 {
   font-size: 1.2rem;
   font-weight: 500;
   margin-bottom: 0.4rem;
-  color: var(--color-heading);
+  color: rgb(238, 200, 200);
 }
 
 @media (min-width: 1024px) {
@@ -52,7 +52,7 @@ h3 {
     left: -26px;
     position: absolute;
     border: 1px solid var(--color-border);
-    background: var(--color-background);
+    background: black;
     border-radius: 8px;
     width: 50px;
     height: 50px;
