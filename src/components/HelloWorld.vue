@@ -43,6 +43,9 @@ h3 {
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體",
     sans-serif;
 }
+.greetings p{
+  text-align: center;
+}
 
 @media (min-width: 1024px) {
   .greetings h1,
