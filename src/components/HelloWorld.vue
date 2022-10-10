@@ -13,10 +13,11 @@ defineProps({
     <h3>
       <a href="https://www.nttu.edu.tw/" target="_blank" rel="noopener"
         >國立臺東大學</a
-      >–<a href="https://wcsie.nttu.edu.tw/" target="_blank" rel="noopener"
+      ><a href="https://wcsie.nttu.edu.tw/" target="_blank" rel="noopener"
         >資訊工程學系</a
       >三年級的學生
     </h3>
+    <p>📧 testzzo.no1@gmail.com</p>
   </div>
 </template>
 

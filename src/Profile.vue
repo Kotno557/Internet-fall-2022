@@ -8,7 +8,7 @@ import TheWelcome from './components/TheWelcome.vue'
     <img alt="My face uwu" class="logo" src="./assets/profile/un_tyson_192b.png" width="125" height="125" />
 
     <div class="wrapper">
-      <HelloWorld msg="楊大為"/>
+      <HelloWorld msg="楊大為 David Yang"/>
     </div>
   </header>
 
