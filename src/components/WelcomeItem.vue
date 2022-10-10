@@ -21,6 +21,7 @@
 .details {
   flex: 1;
   margin-left: 1rem;
+  color: rgb(207, 223, 223);
 }
 
 i {

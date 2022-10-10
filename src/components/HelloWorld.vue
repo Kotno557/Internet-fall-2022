@@ -32,6 +32,9 @@ h3 {
   font-size: 1.2rem;
 }
 
+div{
+  color: azure;
+}
 .greetings h1 {
   text-align: center;
   font-family: "黑體-繁", "微軟正黑體", sans-serif;
@@ -50,7 +53,7 @@ h3 {
 @media (min-width: 1024px) {
   .greetings h1,
   .greetings h3 {
-    text-align: left;
+    text-align: center;
   }
 }
 </style>
