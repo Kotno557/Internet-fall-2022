@@ -1,5 +1,7 @@
 import { createApp } from 'vue'
 import { createRouter, createWebHistory} from 'vue-router'
+
+import './assets/main.css'
 import Profile from './Profile.vue'
 import Gshepherd from './Gshepherd.vue'
 import App from './App.vue'
